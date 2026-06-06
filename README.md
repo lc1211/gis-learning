@@ -14,3 +14,8 @@
 pnpm install
 pnpm run dev
 ```
+
+## 项目特点
+- 基于 Vue 3 + Vite 构建
+- 支持 GIS 地图组件开发
+- 使用 pnpm 管理依赖
